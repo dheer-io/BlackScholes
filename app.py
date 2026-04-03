@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np
 from scipy.stats import norm
 from numpy import log, sqrt, exp  # Make sure to import these
-import matplotlib.pyplot as plt
-import seaborn as sns
 import plotly.graph_objects as go
 
 # -----------------------------
