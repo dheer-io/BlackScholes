@@ -46,24 +46,19 @@ https://blackscholes-dashboard-dheer.streamlit.app/
 
 ---
 
-## 📸 Demo
-
-### Pricing & Greeks Dashboard
-![Dashboard](screenshot1.png)
-
-### P&L Heatmaps
-![Heatmap](screenshot2.png)
-
----
-
 ## ⚙️ Run Locally
 
+If you want to run this project on your own machine:
+
 ```bash
-git clone https://github.com/YOUR_USERNAME/quant-dashboard.git
-cd quant-dashboard
+git clone https://github.com/dheer-io/BlackScholes.git
+cd BlackScholes
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+Then open your browser and go to:
+http://localhost:8501/
 
 ---
 
