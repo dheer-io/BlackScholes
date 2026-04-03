@@ -4,7 +4,7 @@ An interactive options pricing dashboard built using the Black-Scholes model.
 This application enables real-time exploration of option pricing, Greeks, and profit & loss (P&L) under varying market conditions.
 
 🔗 **Live Demo:**  
-https://blackschole.streamlit.app/
+https://blackscholes-dashboard-dheer.streamlit.app/
 
 ---
 
