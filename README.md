@@ -85,14 +85,6 @@ Instead of only computing theoretical option prices, it enables:
 
 ---
 
-## 🔮 Future Improvements
-
-- Implied Volatility Solver
-- Options Strategy Builder (Straddle, Strangle)
-- 3D Surface Visualization
-
----
-
 ## 📌 Tech Stack
 
 - Python
